@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://twitter.com/dallps">
+  <img align="left" alt="MP | Twitter" width="22px" src="assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/m-pr/">
+  <img align="left" alt="MP | LinkedIN" width="22px" src="assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=mpr.visitor-page)
+<br/>
