@@ -1,5 +1,5 @@
 
-<i>Get in Touch</i>
+### <i>Get in Touch</i>
 <!--
 **MuthiahPrabhakaran/MuthiahPrabhakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img align="left" alt="MP | LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 
+<br>
 
 ---
 
