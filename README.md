@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center">
+  <i>Get in Touch</i></p>
 
 <!--
 **MuthiahPrabhakaran/MuthiahPrabhakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="center">
 <a href="https://twitter.com/dallps" target="_blank">
   <img align="left" alt="MP | Twitter" width="22px" src="assets/twitter.svg" />
 </a>
@@ -23,10 +24,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/m-pr/" target="_blank">
   <img align="left" alt="MP | LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
+</p>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mpr.visitor-page)
-<br/>
 
-You can buy me a coffee if you like what I do!
+---
 
-<a href="https://www.buymeacoffee.com/mpr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
