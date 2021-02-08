@@ -1,5 +1,6 @@
 <p align="center">
-  <i>Get in Touch</i></p>
+  <i>Get in Touch</i>
+</p>
 
 <!--
 **MuthiahPrabhakaran/MuthiahPrabhakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +21,9 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/dallps" target="_blank">
   <img align="left" alt="MP | Twitter" width="22px" src="assets/twitter.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/m-pr/" target="_blank">
   <img align="left" alt="MP | LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 </p>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=mpr.visitor-page)
-
 ---
 
